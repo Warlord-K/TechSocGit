@@ -12,4 +12,5 @@
 
 ## Members
 
-[Yatharth Gupta](https://github.com/Warlord-K)
+[Yatharth Gupta](https://github.com/Warlord-K)   
+[Pratham Gupta](https://github.com/cse1060)
