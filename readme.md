@@ -11,5 +11,6 @@
 - Make a Pull Request
 
 ## Members
+[Ayush Awasthi](https://github.com/ayushawasthi24)
 
 [Yatharth Gupta](https://github.com/Warlord-K)
