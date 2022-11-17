@@ -13,3 +13,4 @@
 ## Members
 
 [Yatharth Gupta](https://github.com/Warlord-K)
+[Garima Upadhyay](https://github.com/GARIMAUP)
