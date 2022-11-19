@@ -15,3 +15,5 @@
 [Yatharth Gupta](https://github.com/Warlord-K)
 
 [Garima Upadhyay](https://github.com/GARIMAUP)
+
+[Nagamally Srujan](https://github.com/NAGAMALLYSRUJAN2329)
