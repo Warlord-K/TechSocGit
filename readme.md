@@ -19,3 +19,5 @@
 [Nagamally Srujan](https://github.com/NAGAMALLYSRUJAN2329)
 
 [Sanat Kumar Shukla](https://github.com/SanatKumarShukla)
+
+[Sai Prakul Parepalli](https://github.com/Prakul18)
