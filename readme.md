@@ -23,3 +23,5 @@
 [Varad Shailendra Pendse](https://github.com/VSP1111)
 
 [Saket Jaiswal](https://github.com/SJgit12)
+
+[Krish Pathak](https://github.com/krishpathak)
