@@ -25,3 +25,5 @@
 [Saket Jaiswal](https://github.com/SJgit12)
 
 [Tejas Santosh Bhavekar](https://github.com/Tejker)
+
+[Krish Pathak](https://github.com/krishpathak)
