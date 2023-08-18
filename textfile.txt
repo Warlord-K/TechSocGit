@@ -2,3 +2,4 @@ This is a sample file. -Yatharth Gupta
 IIT-INDORE is great-Garima Upadhyay
 This is my first time in git-Nagamally Srujan
 Hello there - Varad Pendse
+Git is great - Tejas Bhavekar
