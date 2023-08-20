@@ -27,3 +27,5 @@
 [Tejas Santosh Bhavekar](https://github.com/Tejker)
 
 [Krish Pathak](https://github.com/krishpathak)
+
+[Sai Prakul Parepalli](https://github.com/Prakul18)
